@@ -1,1 +1,1 @@
-# A simple pygame based wave animation approximating physical surfac waves
+# A simple pygame based wave animation approximating physical surface waves
